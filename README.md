@@ -13,6 +13,6 @@ There are many applications that can be extended using a suitable API. One of th
 ## An existing application with a API implemented
 An existing application that did not have a API implemented into is was an application called trace ball which is a small basic game that can be played on a web browser. Using the google maps API a map can be added to the game to show how a API can be implemented into any program.
 
-! [traceballmap](https://github.com/HORNETJOE/API-Application-Program-Interfaces-/blob/master/traceballmap.png)
+![traceballmap](https://github.com/HORNETJOE/API-Application-Program-Interfaces-/blob/master/traceballmap.png)
 
 ## White box testing
