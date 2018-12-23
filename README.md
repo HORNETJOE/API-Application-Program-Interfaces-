@@ -16,3 +16,13 @@ An existing application that did not have a API implemented into is was an appli
 ![traceballmap](https://github.com/HORNETJOE/API-Application-Program-Interfaces-/blob/master/traceballmap.png)
 
 ## White box testing
+
+## The potential security issues with an API
+
+## Application Design (API)
+
+## Application development (API)
+
+## Black Box testing
+
+## Updates on Test Results
