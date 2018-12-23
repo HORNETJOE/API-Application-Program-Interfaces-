@@ -16,6 +16,13 @@ An existing application that did not have a API implemented into is was an appli
 ![traceballmap](https://github.com/HORNETJOE/API-Application-Program-Interfaces-/blob/master/traceballmap.png)
 
 ## White box testing
+The white box testing will involve using the applciation with someone that has knowlege about the internal components of the applciaiton so in this case the creator of the code will run the test becuase they know the ins and outs of the code and this will be good for compleating the white box testing. The list of testing componets is below.
+
+Does the game run?
+
+Does google maps work?
+
+Does the game work while the map is open?
 
 ## The potential security issues with an API
 
