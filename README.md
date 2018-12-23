@@ -1,5 +1,5 @@
 # API-Application-Program-Interfaces-
-## relationship between an API and a software development kit (SDK)
+## Relationship between an API and a software development kit (SDK)
 An API is a set of instructions and procedures that allow a developer to create an application that can access information from 
 
 The relationship between an API and a SDK would be that an API is useful for specific methods while SDK is useful for a lot more methods as well as contain more tools for developing. However, because an API is more specific with its methods it is more useful when dealing with a specific problem. Using the API will save a lot of space when developing while the SDK will still have the extra tools that it comes with, so it will take up unnecessary space what would be better suited to other elements.
@@ -25,4 +25,4 @@ An existing application that did not have a API implemented into is was an appli
 
 ## Black Box testing
 
-## Updates on Test Results 
+## Updates on Test Results
