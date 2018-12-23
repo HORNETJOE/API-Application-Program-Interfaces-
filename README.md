@@ -24,8 +24,6 @@ Does google maps work?
 
 Does the game work while the map is open?
 
-## The potential security issues with an API
-
 ## Application Design (API)
 
 ## Application development (API)
@@ -33,3 +31,5 @@ Does the game work while the map is open?
 ## Black Box testing
 
 ## Updates on Test Results
+
+## The potential security issues with an API
