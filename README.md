@@ -12,6 +12,8 @@ There are many applications that can be extended using a suitable API. One of th
 
 ## The potential security issues with an API
 
+## Application Design
+
 ## An exsisting application with a API implemented
 
 ## White box testing
